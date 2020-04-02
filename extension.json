@@ -1,0 +1,9 @@
+{
+  "id": "youtube-video",
+  "name": "youtube-video",
+  "srcdoc": "./build/index.html",
+  "fieldTypes": [
+    "Symbol",
+    "Text"
+  ]
+}
